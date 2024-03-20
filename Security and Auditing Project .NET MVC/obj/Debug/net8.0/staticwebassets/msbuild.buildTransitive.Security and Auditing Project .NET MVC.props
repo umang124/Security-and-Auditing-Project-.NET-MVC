@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Security and Auditing Project .NET MVC.props" />
+</Project>

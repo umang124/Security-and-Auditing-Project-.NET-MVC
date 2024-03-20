@@ -1,0 +1,137 @@
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\appsettings.Development.json
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\appsettings.json
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\Security and Auditing Project .NET MVC.staticwebassets.runtime.json
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\Security and Auditing Project .NET MVC.exe
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\Security and Auditing Project .NET MVC.deps.json
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\Security and Auditing Project .NET MVC.runtimeconfig.json
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\Security and Auditing Project .NET MVC.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\Security and Auditing Project .NET MVC.pdb
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\Azure.Core.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\Azure.Identity.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\Humanizer.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\System.CodeDom.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\System.Memory.Data.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\obj\Debug\net8.0\Security and Auditing Project .NET MVC.csproj.AssemblyReference.cache
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\obj\Debug\net8.0\Security and Auditing Project .NET MVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\obj\Debug\net8.0\Security and Auditing Project .NET MVC.AssemblyInfoInputs.cache
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\obj\Debug\net8.0\Security and Auditing Project .NET MVC.AssemblyInfo.cs
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\obj\Debug\net8.0\Security and Auditing Project .NET MVC.csproj.CoreCompileInputs.cache
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\obj\Debug\net8.0\Security and Auditing Project .NET MVC.MvcApplicationPartsAssemblyInfo.cache
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\obj\Debug\net8.0\Security and Auditing Project .NET MVC.RazorAssemblyInfo.cache
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\obj\Debug\net8.0\Security and Auditing Project .NET MVC.RazorAssemblyInfo.cs
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\obj\Debug\net8.0\Security and Auditing Project .NET MVC.sourcelink.json
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\obj\Debug\net8.0\staticwebassets.build.json
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\obj\Debug\net8.0\staticwebassets.development.json
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\obj\Debug\net8.0\staticwebassets\msbuild.Security and Auditing Project .NET MVC.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\obj\Debug\net8.0\staticwebassets\msbuild.build.Security and Auditing Project .NET MVC.props
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Security and Auditing Project .NET MVC.props
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Security and Auditing Project .NET MVC.props
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\obj\Debug\net8.0\staticwebassets.pack.json
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\obj\Debug\net8.0\scopedcss\bundle\Security and Auditing Project .NET MVC.styles.css
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\obj\Debug\net8.0\scopedcss\projectbundle\Security and Auditing Project .NET MVC.bundle.scp.css
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\obj\Debug\net8.0\Security and Auditing Project .NET MVC.csproj.CopyComplete
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\obj\Debug\net8.0\Security and Auditing Project .NET MVC.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\obj\Debug\net8.0\refint\Security and Auditing Project .NET MVC.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\obj\Debug\net8.0\Security and Auditing Project .NET MVC.pdb
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\obj\Debug\net8.0\Security and Auditing Project .NET MVC.genruntimeconfig.cache
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\obj\Debug\net8.0\ref\Security and Auditing Project .NET MVC.dll
