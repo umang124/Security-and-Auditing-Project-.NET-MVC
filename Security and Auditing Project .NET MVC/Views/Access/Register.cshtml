@@ -1,0 +1,50 @@
+﻿@using Security_and_Auditing_Project_.NET_MVC.Models.VM
+@model RegisterVM;
+
+<div class="rcontainer">
+    <div class="registration-form">
+        <h2>Register</h2>
+        <form method="post">
+            <div class="rform-group">
+                <label for="username">Username</label>
+                <input asp-for="UserName" type="text" placeholder="Enter your username" required>
+                <span asp-validation-for="UserName" class="text-danger"></span>
+            </div>
+            <div class="rform-group">
+                <label asp-for="Email">Email</label>
+                <input asp-for="Email" type="email" placeholder="Enter your email" required>
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="rform-group">
+                <label asp-for="Password">Password</label>
+                <input asp-for="Password" type="password" placeholder="Enter your password" required>
+            </div>
+            <div class="rform-group">
+                <label asp-for="GenderId">Gender</label>
+                <select asp-for="GenderId" asp-items="ViewBag.GenderList">
+                    <option value="" disabled selected>Choose Gender</option>s                   
+                </select>
+                <span asp-validation-for="GenderId" class="text-danger"></span>
+            </div>
+
+            <div class="rform-group">
+                <label asp-for="RoleId">Role</label>
+                <select asp-for="RoleId" asp-items="ViewBag.RolesList">
+                    <option value="" disabled selected>Choose Role</option>s
+                </select>
+                <span asp-validation-for="RoleId" class="text-danger"></span>
+            </div>
+
+            <div class="rform-group">
+                <button type="submit">Register</button>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+@section Scripts {
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+}

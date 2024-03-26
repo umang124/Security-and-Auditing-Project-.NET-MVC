@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Security_and_Auditing_Project_.NET_MVC.Data;
 
@@ -11,9 +12,11 @@ using Security_and_Auditing_Project_.NET_MVC.Data;
 namespace Security_and_Auditing_Project_.NET_MVC.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    partial class ApplicationDbContextModelSnapshot : ModelSnapshot
+    [Migration("20240326160941_UpdateColumn")]
+    partial class UpdateColumn
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -44,7 +47,7 @@ namespace Security_and_Auditing_Project_.NET_MVC.Migrations
 
                     b.HasIndex("UserId");
 
-                    b.ToTable("AuditLogs", (string)null);
+                    b.ToTable("AuditLogs");
                 });
 
             modelBuilder.Entity("Security_and_Auditing_Project_.NET_MVC.Models.Gender", b =>
@@ -61,7 +64,7 @@ namespace Security_and_Auditing_Project_.NET_MVC.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Genders", (string)null);
+                    b.ToTable("Genders");
                 });
 
             modelBuilder.Entity("Security_and_Auditing_Project_.NET_MVC.Models.Role", b =>
@@ -78,7 +81,7 @@ namespace Security_and_Auditing_Project_.NET_MVC.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Roles", (string)null);
+                    b.ToTable("Roles");
                 });
 
             modelBuilder.Entity("Security_and_Auditing_Project_.NET_MVC.Models.User", b =>
@@ -108,7 +111,7 @@ namespace Security_and_Auditing_Project_.NET_MVC.Migrations
 
                     b.HasIndex("GenderId");
 
-                    b.ToTable("Users", (string)null);
+                    b.ToTable("Users");
                 });
 
             modelBuilder.Entity("Security_and_Auditing_Project_.NET_MVC.Models.UserRole", b =>
@@ -131,7 +134,7 @@ namespace Security_and_Auditing_Project_.NET_MVC.Migrations
 
                     b.HasIndex("UserId");
 
-                    b.ToTable("UserRoles", (string)null);
+                    b.ToTable("UserRoles");
                 });
 
             modelBuilder.Entity("Security_and_Auditing_Project_.NET_MVC.Models.AuditLog", b =>

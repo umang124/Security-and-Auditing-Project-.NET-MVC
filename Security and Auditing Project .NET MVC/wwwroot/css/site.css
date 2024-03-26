@@ -1,22 +1,162 @@
-html {
-  font-size: 14px;
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap");
+
+* {
+    font-family: "Poppins", sans-serif;
+    box-sizing: border-box;
 }
 
-@media (min-width: 768px) {
-  html {
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    padding: 10px 0;
+    text-align: center;
+}
+
+
+.notes-container {
+    max-width: 1100px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+.notes {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.note {
+    flex-grow: 1;
+    flex-basis: calc(50% - 20px);
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.note .note-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.note h2 {
+    margin: 0;
+    font-size: 1.2em;
+    color: #333;
+}
+
+.note p {
+    color: #666;
+    line-height: 1.6;
+}
+
+.note-actions {
+    display: flex;
+}
+
+.note-edit-button,
+.note-delete-button {
+    padding: 8px 12px;
+    margin-left: 5px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.note-edit-button {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.note-delete-button {
+    background-color: #f44336;
+    color: white;
+}
+
+@media screen and (max-width: 600px) {
+    .notes {
+        flex-direction: column;
+    }
+}
+
+
+.rcontainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh; /* Changed to min-height for better responsiveness */
+}
+
+/* Registration form styling */
+.registration-form {
+    background-color: #f7f7f7; /* Lighter background color */
+    border-radius: 10px;
+    padding: 30px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1); /* Increased box shadow for depth */
+    width: 400px; /* Increased width for a wider form */
+}
+
+.registration-form h2 {
+    margin-bottom: 20px;
+    text-align: center;
+    color: #333;
+}
+
+/* Form group styling */
+.rform-group {
+    margin-bottom: 25px; /* Increased margin for better spacing */
+}
+
+.rform-group label {
+    display: block;
+    font-size: 18px; /* Slightly increased font size for labels */
+    font-weight: 600;
+    color: #444; /* Darkened label color */
+}
+
+.rform-group input {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ddd; /* Lighter border color */
+    border-radius: 6px; /* Slightly increased border radius */
     font-size: 16px;
-  }
 }
 
-.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
-  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+/* Button styling */
+.rform-group button {
+    width: 100%;
+    padding: 14px;
+    border: none;
+    border-radius: 6px;
+    background-color: #007bff;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s; /* Smooth hover transition */
 }
 
-html {
-  position: relative;
-  min-height: 100%;
+.rform-group button:hover {
+    background-color: #0056b3;
 }
 
-body {
-  margin-bottom: 60px;
+.rform-group select {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ddd; /* Lighter border color */
+    border-radius: 6px; /* Slightly increased border radius */
+    font-size: 16px;
+    background-color: #fff; /* Set background color to white */
+}
+
+.rform-group select:focus {
+    outline: none; /* Remove default focus outline */
+    border-color: #007bff; /* Change border color on focus */
 }

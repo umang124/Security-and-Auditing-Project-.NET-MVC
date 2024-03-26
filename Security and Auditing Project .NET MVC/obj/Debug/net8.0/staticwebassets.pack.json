@@ -5,6 +5,14 @@
       "PackagePath": "staticwebassets\\Security and Auditing Project .NET MVC.bundle.scp.css"
     },
     {
+      "Id": "D:\\DOTNET\\Security and Auditing Project .NET MVC\\Security and Auditing Project .NET MVC\\wwwroot\\css\\notesStyle.css",
+      "PackagePath": "staticwebassets\\css\\notesStyle.css"
+    },
+    {
+      "Id": "D:\\DOTNET\\Security and Auditing Project .NET MVC\\Security and Auditing Project .NET MVC\\wwwroot\\css\\registerStyle.css",
+      "PackagePath": "staticwebassets\\css\\registerStyle.css"
+    },
+    {
       "Id": "D:\\DOTNET\\Security and Auditing Project .NET MVC\\Security and Auditing Project .NET MVC\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
