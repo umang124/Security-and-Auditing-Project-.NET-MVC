@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Security and Auditing Project .NET MVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f07cb5ff96e692c80113cbb0f402c9881819e668")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+10d5e6ba95ff3089a60ba05046a1c545ebf555eb")]
 [assembly: System.Reflection.AssemblyProductAttribute("Security and Auditing Project .NET MVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Security and Auditing Project .NET MVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
