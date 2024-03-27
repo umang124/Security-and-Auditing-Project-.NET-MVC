@@ -18,6 +18,7 @@
             <div class="rform-group">
                 <label asp-for="Password">Password</label>
                 <input asp-for="Password" type="password" placeholder="Enter your password" required>
+                <span asp-validation-for="Password" class="text-danger"></span>
             </div>
             <div class="rform-group">
                 <label asp-for="GenderId">Gender</label>
@@ -34,10 +35,11 @@
                 </select>
                 <span asp-validation-for="RoleId" class="text-danger"></span>
             </div>
-
+            <div class="mb-3">Already have an account? - <a asp-action="Login">Login</a></div>
             <div class="rform-group">
                 <button type="submit">Register</button>
             </div>
+            
         </form>
     </div>
 </div>

@@ -1,0 +1,24 @@
+﻿@using Security_and_Auditing_Project_.NET_MVC.Models.VM
+@model LoginVM;
+
+<div class="rcontainer">
+    <div class="registration-form">
+        <h2>Login</h2>
+        <form method="post">
+            <div class="rform-group">
+                <label asp-for="Email">Email</label>
+                <input asp-for="Email" type="email" placeholder="Enter your email" required>
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="rform-group">
+                <label asp-for="Password">Password</label>
+                <input asp-for="Password" type="password" placeholder="Enter your password" required>
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+            <div class="mb-3">Don't have an account? - <a asp-action="Register">Register</a></div>
+            <div class="rform-group">
+                <button type="submit">Login</button>
+            </div>
+        </form>
+    </div>
+</div>

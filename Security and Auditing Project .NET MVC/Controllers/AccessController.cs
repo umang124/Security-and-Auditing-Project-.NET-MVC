@@ -94,5 +94,44 @@ namespace Security_and_Auditing_Project_.NET_MVC.Controllers
             }
             return View();
         }
+
+        [HttpGet]
+        public IActionResult Login()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Login(LoginVM loginVM)
+        {
+            if (ModelState.IsValid)
+            {
+                if (_db.Users.Any(x => x.Email == loginVM.Email && x.Password == loginVM.Password))
+                {
+                    var userId = _db.Users.FirstOrDefault(x => x.Email == loginVM.Email).Id;
+                    
+                    List<Claim> claims = new List<Claim>()
+                {
+                    new Claim(ClaimTypes.NameIdentifier, loginVM.Email),
+                    new Claim(ClaimTypes.Role, _db.Roles.FirstOrDefault(x => x.Id == userId).Name)
+                };
+
+                    ClaimsIdentity claimsIdentity = new ClaimsIdentity(claims, CookieAuthenticationDefaults.AuthenticationScheme);
+
+                    AuthenticationProperties properties = new AuthenticationProperties()
+                    {
+                        AllowRefresh = true,
+                        IsPersistent = true
+                    };
+
+                    await HttpContext.SignInAsync(CookieAuthenticationDefaults.AuthenticationScheme,
+                                    new ClaimsPrincipal(claimsIdentity), properties);
+                    return RedirectToAction("Index", "Notes");
+                }
+                ModelState.AddModelError("Email", "Email or Password is incorrect");
+                return View();
+            }
+            return View();
+        }
     }
 }

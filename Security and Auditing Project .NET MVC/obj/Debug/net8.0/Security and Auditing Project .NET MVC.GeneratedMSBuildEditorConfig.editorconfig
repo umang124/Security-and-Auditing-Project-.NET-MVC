@@ -18,6 +18,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/DOTNET/Security and Auditing Project .NET MVC/Security and Auditing Project .NET MVC/Views/Access/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjZXNzXExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/DOTNET/Security and Auditing Project .NET MVC/Security and Auditing Project .NET MVC/Views/Access/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjZXNzXFJlZ2lzdGVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
