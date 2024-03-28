@@ -2,7 +2,7 @@
 
 namespace Security_and_Auditing_Project_.NET_MVC.Models.VM
 {
-    public class RegisterVM
+    public class RegisterDTO
     {
         [Required]
         public string UserName { get; set; }

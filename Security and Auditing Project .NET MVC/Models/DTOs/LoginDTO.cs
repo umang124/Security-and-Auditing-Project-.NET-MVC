@@ -2,7 +2,7 @@
 
 namespace Security_and_Auditing_Project_.NET_MVC.Models.VM
 {
-    public class LoginVM
+    public class LoginDTO
     {
         [Required]
         public string Email { get; set; }

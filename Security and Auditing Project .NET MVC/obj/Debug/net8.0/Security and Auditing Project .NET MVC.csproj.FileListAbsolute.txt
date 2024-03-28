@@ -129,9 +129,9 @@ D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .
 D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\obj\Debug\net8.0\scopedcss\bundle\Security and Auditing Project .NET MVC.styles.css
 D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\obj\Debug\net8.0\scopedcss\projectbundle\Security and Auditing Project .NET MVC.bundle.scp.css
-D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\obj\Debug\net8.0\Security and Auditing Project .NET MVC.csproj.CopyComplete
 D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\obj\Debug\net8.0\Security and Auditing Project .NET MVC.dll
 D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\obj\Debug\net8.0\refint\Security and Auditing Project .NET MVC.dll
 D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\obj\Debug\net8.0\Security and Auditing Project .NET MVC.pdb
 D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\obj\Debug\net8.0\Security and Auditing Project .NET MVC.genruntimeconfig.cache
 D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\obj\Debug\net8.0\ref\Security and Auditing Project .NET MVC.dll
+D:\DOTNET\Security and Auditing Project .NET MVC\Security and Auditing Project .NET MVC\obj\Debug\net8.0\Security.11EAE9E1.Up2Date

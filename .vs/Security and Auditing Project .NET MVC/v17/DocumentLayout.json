@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "D:\\DOTNET\\Security and Auditing Project .NET MVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1903CA8C-74B3-4238-BD53-114D1D1214D5}|Security and Auditing Project .NET MVC\\Security and Auditing Project .NET MVC.csproj|d:\\dotnet\\security and auditing project .net mvc\\security and auditing project .net mvc\\controllers\\accesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1903CA8C-74B3-4238-BD53-114D1D1214D5}|Security and Auditing Project .NET MVC\\Security and Auditing Project .NET MVC.csproj|solutionrelative:security and auditing project .net mvc\\controllers\\accesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1903CA8C-74B3-4238-BD53-114D1D1214D5}|Security and Auditing Project .NET MVC\\Security and Auditing Project .NET MVC.csproj|d:\\dotnet\\security and auditing project .net mvc\\security and auditing project .net mvc\\controllers\\auditlogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1903CA8C-74B3-4238-BD53-114D1D1214D5}|Security and Auditing Project .NET MVC\\Security and Auditing Project .NET MVC.csproj|solutionrelative:security and auditing project .net mvc\\controllers\\auditlogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1903CA8C-74B3-4238-BD53-114D1D1214D5}|Security and Auditing Project .NET MVC\\Security and Auditing Project .NET MVC.csproj|d:\\dotnet\\security and auditing project .net mvc\\security and auditing project .net mvc\\models\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1903CA8C-74B3-4238-BD53-114D1D1214D5}|Security and Auditing Project .NET MVC\\Security and Auditing Project .NET MVC.csproj|solutionrelative:security and auditing project .net mvc\\models\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1903CA8C-74B3-4238-BD53-114D1D1214D5}|Security and Auditing Project .NET MVC\\Security and Auditing Project .NET MVC.csproj|d:\\dotnet\\security and auditing project .net mvc\\security and auditing project .net mvc\\models\\vm\\auditlogvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1903CA8C-74B3-4238-BD53-114D1D1214D5}|Security and Auditing Project .NET MVC\\Security and Auditing Project .NET MVC.csproj|solutionrelative:security and auditing project .net mvc\\models\\vm\\auditlogvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1903CA8C-74B3-4238-BD53-114D1D1214D5}|Security and Auditing Project .NET MVC\\Security and Auditing Project .NET MVC.csproj|d:\\dotnet\\security and auditing project .net mvc\\security and auditing project .net mvc\\views\\auditlog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1903CA8C-74B3-4238-BD53-114D1D1214D5}|Security and Auditing Project .NET MVC\\Security and Auditing Project .NET MVC.csproj|solutionrelative:security and auditing project .net mvc\\views\\auditlog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,51 +27,28 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AccessController.cs",
-              "DocumentMoniker": "D:\\DOTNET\\Security and Auditing Project .NET MVC\\Security and Auditing Project .NET MVC\\Controllers\\AccessController.cs",
-              "RelativeDocumentMoniker": "Security and Auditing Project .NET MVC\\Controllers\\AccessController.cs",
-              "ToolTip": "D:\\DOTNET\\Security and Auditing Project .NET MVC\\Security and Auditing Project .NET MVC\\Controllers\\AccessController.cs",
-              "RelativeToolTip": "Security and Auditing Project .NET MVC\\Controllers\\AccessController.cs",
-              "ViewState": "AQIAAI0AAAAAAAAAAAAQwKoAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T03:59:39.242Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "AuditLogController.cs",
               "DocumentMoniker": "D:\\DOTNET\\Security and Auditing Project .NET MVC\\Security and Auditing Project .NET MVC\\Controllers\\AuditLogController.cs",
               "RelativeDocumentMoniker": "Security and Auditing Project .NET MVC\\Controllers\\AuditLogController.cs",
               "ToolTip": "D:\\DOTNET\\Security and Auditing Project .NET MVC\\Security and Auditing Project .NET MVC\\Controllers\\AuditLogController.cs",
               "RelativeToolTip": "Security and Auditing Project .NET MVC\\Controllers\\AuditLogController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T03:58:14.423Z"
+              "WhenOpened": "2024-03-28T19:13:55.417Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AuditLogVM.cs",
-              "DocumentMoniker": "D:\\DOTNET\\Security and Auditing Project .NET MVC\\Security and Auditing Project .NET MVC\\Models\\VM\\AuditLogVM.cs",
-              "RelativeDocumentMoniker": "Security and Auditing Project .NET MVC\\Models\\VM\\AuditLogVM.cs",
-              "ToolTip": "D:\\DOTNET\\Security and Auditing Project .NET MVC\\Security and Auditing Project .NET MVC\\Models\\VM\\AuditLogVM.cs",
-              "RelativeToolTip": "Security and Auditing Project .NET MVC\\Models\\VM\\AuditLogVM.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T03:50:09.143Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AuditLog.cs",
-              "DocumentMoniker": "D:\\DOTNET\\Security and Auditing Project .NET MVC\\Security and Auditing Project .NET MVC\\Models\\AuditLog.cs",
-              "RelativeDocumentMoniker": "Security and Auditing Project .NET MVC\\Models\\AuditLog.cs",
-              "ToolTip": "D:\\DOTNET\\Security and Auditing Project .NET MVC\\Security and Auditing Project .NET MVC\\Models\\AuditLog.cs",
-              "RelativeToolTip": "Security and Auditing Project .NET MVC\\Models\\AuditLog.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T03:49:55.098Z"
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DOTNET\\Security and Auditing Project .NET MVC\\Security and Auditing Project .NET MVC\\Views\\AuditLog\\Index.cshtml",
+              "RelativeDocumentMoniker": "Security and Auditing Project .NET MVC\\Views\\AuditLog\\Index.cshtml",
+              "ToolTip": "D:\\DOTNET\\Security and Auditing Project .NET MVC\\Security and Auditing Project .NET MVC\\Views\\AuditLog\\Index.cshtml",
+              "RelativeToolTip": "Security and Auditing Project .NET MVC\\Views\\AuditLog\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T19:12:13.07Z",
+              "EditorCaption": ""
             }
           ]
         }

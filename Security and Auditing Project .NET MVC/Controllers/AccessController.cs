@@ -42,17 +42,17 @@ namespace Security_and_Auditing_Project_.NET_MVC.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> Register(RegisterVM registerVM)
+        public async Task<IActionResult> Register(RegisterDTO registerDTO)
         {
 
             if (ModelState.IsValid)
             {
-                if (_db.Users.Any(x => x.UserName == registerVM.UserName))
+                if (_db.Users.Any(x => x.UserName == registerDTO.UserName))
                 {
                     ModelState.AddModelError("UserName", "UserName already exists");
                     return View();
                 }
-                if (_db.Users.Any(x => x.Email == registerVM.Email))
+                if (_db.Users.Any(x => x.Email == registerDTO.Email))
                 {
                     ModelState.AddModelError("Email", "Email already exists");
                     return View();
@@ -60,16 +60,16 @@ namespace Security_and_Auditing_Project_.NET_MVC.Controllers
 
 
                 Models.User userModel = new Models.User();
-                userModel.GenderId = registerVM.GenderId;
-                userModel.UserName = registerVM.UserName;
-                userModel.Email = registerVM.Email;
-                userModel.Password = registerVM.Password;
+                userModel.GenderId = registerDTO.GenderId;
+                userModel.UserName = registerDTO.UserName;
+                userModel.Email = registerDTO.Email;
+                userModel.Password = registerDTO.Password;
                 _db.Users.Add(userModel);
                 _db.SaveChanges();
 
                 UserRole userRoleModel = new UserRole();
                 userRoleModel.UserId = userModel.Id;
-                userRoleModel.RoleId = registerVM.RoleId;
+                userRoleModel.RoleId = registerDTO.RoleId;
                 _db.UserRoles.Add(userRoleModel);
                 _db.SaveChanges();
 
@@ -84,7 +84,7 @@ namespace Security_and_Auditing_Project_.NET_MVC.Controllers
                 {
                     new Claim(ClaimTypes.NameIdentifier, userModel.Id.ToString()),
                     new Claim(ClaimTypes.Email, userModel.Email),
-                    new Claim(ClaimTypes.Role, _db.Roles.FirstOrDefault(x => x.Id == registerVM.RoleId).Name)
+                    new Claim(ClaimTypes.Role, _db.Roles.FirstOrDefault(x => x.Id == registerDTO.RoleId).Name)
                 };
 
                 ClaimsIdentity claimsIdentity = new ClaimsIdentity(claims, CookieAuthenticationDefaults.AuthenticationScheme);
@@ -110,19 +110,19 @@ namespace Security_and_Auditing_Project_.NET_MVC.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> Login(LoginVM loginVM)
+        public async Task<IActionResult> Login(LoginDTO loginDTO)
         {
             if (ModelState.IsValid)
             {
-                if (_db.Users.Any(x => x.Email == loginVM.Email && x.Password == loginVM.Password))
+                if (_db.Users.Any(x => x.Email == loginDTO.Email && x.Password == loginDTO.Password))
                 {
-                    var userId = _db.Users.FirstOrDefault(x => x.Email == loginVM.Email).Id;
+                    var userId = _db.Users.FirstOrDefault(x => x.Email == loginDTO.Email).Id;
                     var userRoleId = _db.UserRoles.FirstOrDefault(x => x.UserId == userId).RoleId;
 
                     List<Claim> claims = new List<Claim>()
                     {
                         new Claim(ClaimTypes.NameIdentifier, userId.ToString()), 
-                        new Claim(ClaimTypes.Email, loginVM.Email), 
+                        new Claim(ClaimTypes.Email, loginDTO.Email), 
                         new Claim(ClaimTypes.Role, _db.Roles.FirstOrDefault(x => x.Id == userRoleId).Name)
                     };
 
