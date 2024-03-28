@@ -157,7 +157,6 @@ namespace Security_and_Auditing_Project_.NET_MVC.Controllers
         public async Task<IActionResult> Logout()
         {
             var claimsIdentity = User.Identity as ClaimsIdentity;
-
             var userIdClaim = claimsIdentity?.Claims.FirstOrDefault(c => c.Type == ClaimTypes.NameIdentifier);
 
             AuditLog auditLog = new AuditLog();
@@ -166,8 +165,9 @@ namespace Security_and_Auditing_Project_.NET_MVC.Controllers
             auditLog.UserId = Convert.ToInt32(userIdClaim.Value);
             _db.AuditLogs.Add(auditLog);
             _db.SaveChanges();
+
             await HttpContext.SignOutAsync(CookieAuthenticationDefaults.AuthenticationScheme);
             return RedirectToAction("Index", "Home");
         }
     }
-}
+}   
